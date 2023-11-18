@@ -1,6 +1,6 @@
 - 👋 Hi, My nickname is @TiFalcom, but my real name is Diego Araujo Giovanini
 - 👀 I’m interested in solving problems with Data Science
-- 🌱 I’m currently learning Machine Learning and Stocastic Process
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 diego.giovanini4@gmail.com
 
